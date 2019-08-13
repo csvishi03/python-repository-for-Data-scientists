@@ -1,5 +1,5 @@
-# python-repository-for-Data-scientists
-A knowledge sharing platform for data scientists and other technical professions.
+# Knowledge Repo
+
 [![PyPI](https://img.shields.io/pypi/status/knowledge-repo.svg)]()
 [![license](https://img.shields.io/github/license/airbnb/knowledge-repo.svg)]()
 [![PyPI version](https://badge.fury.io/py/knowledge-repo.svg)](https://badge.fury.io/py/knowledge-repo)
